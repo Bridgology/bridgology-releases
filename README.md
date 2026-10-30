@@ -1,9 +1,7 @@
 <p align="center">
   <a href="https://www.bridgology.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/images/logo-dark.png">
-      <img src="docs/images/logo-light.png" alt="Bridgology" width="360">
-    </picture>
+    <img src="docs/images/logo-light.png#gh-light-mode-only" alt="Bridgology" width="360">
+  <img src="docs/images/logo-dark.png#gh-dark-mode-only" alt="Bridgology" width="360">
   </a>
 </p>
 
@@ -26,10 +24,8 @@
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/bscan-dark.png">
-    <img src="docs/images/bscan-light.png" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
-  </picture>
+  <img src="docs/images/bscan-light.png#gh-light-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
+  <img src="docs/images/bscan-dark.png#gh-dark-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
 </p>
 
 <br>
@@ -51,10 +47,8 @@ Position every scan from its GPS or a spreadsheet, over a drawing, a photo or an
 joints, labels and areas to leave out.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/geometry-dark.png">
-    <img src="docs/images/geometry-light.png" alt="Scan lines placed on the plan of a curved bridge" width="900">
-  </picture>
+  <img src="docs/images/geometry-light.png#gh-light-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
+  <img src="docs/images/geometry-dark.png#gh-dark-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
 </p>
 
 ### Map the results
@@ -63,10 +57,8 @@ Thickness, cover depth, spacing and permittivity, interpolated into maps of the 
 cross-sections, outline areas of interest, and export the maps, the figures and the numbers.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/images/map-dark.png">
-    <img src="docs/images/map-light.png" alt="Map of concrete thickness over a curved bridge deck" width="900">
-  </picture>
+  <img src="docs/images/map-light.png#gh-light-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
+  <img src="docs/images/map-dark.png#gh-dark-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
 </p>
 
 ## Works with your radar
