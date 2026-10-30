@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="docs/images/logo-light.png#gh-light-mode-only" alt="Bridgology" width="360">
-  <img src="docs/images/logo-dark.png#gh-dark-mode-only" alt="Bridgology" width="360">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/logo-light.png#gh-light-mode-only" alt="Bridgology" width="360">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/logo-dark.png#gh-dark-mode-only" alt="Bridgology" width="360">
 </p>
 
 <h3 align="center">Ground-penetrating radar analysis for bridges, slabs and walls</h3>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.12.0/Bridgology-0.12.0-macos-arm64.dmg"><img src="docs/images/download-macos.svg" alt="Download for macOS" width="280"></a>
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.12.0/Bridgology-0.12.0-macos-arm64.dmg"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-macos.svg" alt="Download for macOS" width="280"></a>
   &nbsp;
-  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.12.0/Bridgology-0.12.0-windows-x64-setup.exe"><img src="docs/images/download-windows.svg" alt="Download for Windows" width="280"></a>
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.12.0/Bridgology-0.12.0-windows-x64-setup.exe"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-windows.svg" alt="Download for Windows" width="280"></a>
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@
 <br>
 
 <p align="center">
-  <img src="docs/images/bscan-light.png#gh-light-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
-  <img src="docs/images/bscan-dark.png#gh-dark-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/bscan-light.png#gh-light-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/bscan-dark.png#gh-dark-mode-only" alt="Bridgology showing a radargram with picked asphalt and concrete layers" width="900">
 </p>
 
 <br>
@@ -45,8 +45,8 @@ Position every scan from its GPS or a spreadsheet, over a drawing, a photo or an
 joints, labels and areas to leave out.
 
 <p align="center">
-  <img src="docs/images/geometry-light.png#gh-light-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
-  <img src="docs/images/geometry-dark.png#gh-dark-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/geometry-light.png#gh-light-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/geometry-dark.png#gh-dark-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
 </p>
 
 ### Map the results
@@ -55,8 +55,8 @@ Thickness, cover depth, spacing and permittivity, interpolated into maps of the 
 cross-sections, outline areas of interest, and export the maps, the figures and the numbers.
 
 <p align="center">
-  <img src="docs/images/map-light.png#gh-light-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
-  <img src="docs/images/map-dark.png#gh-dark-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/map-light.png#gh-light-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
+  <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/map-dark.png#gh-dark-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
 </p>
 
 ## Works with your radar
