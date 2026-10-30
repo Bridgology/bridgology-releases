@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="https://www.bridgology.com">
-    <img src="docs/images/logo-light.png#gh-light-mode-only" alt="Bridgology" width="360">
+  <img src="docs/images/logo-light.png#gh-light-mode-only" alt="Bridgology" width="360">
   <img src="docs/images/logo-dark.png#gh-dark-mode-only" alt="Bridgology" width="360">
-  </a>
 </p>
 
 <h3 align="center">Ground-penetrating radar analysis for bridges, slabs and walls</h3>
