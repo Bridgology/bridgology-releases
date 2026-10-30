@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="72" viewBox="0 0 320 72">
+  <rect width="320" height="72" rx="12" fill="#1A8BC2"/>
+  <g transform="translate(22 18) scale(0.0375)" fill="#FFFFFF">
+    <path transform="translate(0 960)" d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="74" y="33" font-size="19" font-weight="600">Download for macOS</text>
+    <text x="74" y="54" font-size="13" fill-opacity="0.85">Apple Silicon (M1 and later)</text>
+  </g>
+</svg>
