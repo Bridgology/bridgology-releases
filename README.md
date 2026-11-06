@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.16.0/Bridgology-0.16.0-macos-arm64.dmg"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-macos.svg" alt="Download for macOS" width="280"></a>
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.17.0/Bridgology-0.17.0-macos-arm64.dmg"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-macos.svg" alt="Download for macOS" width="280"></a>
   &nbsp;
-  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.16.0/Bridgology-0.16.0-windows-x64-setup.exe"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-windows.svg" alt="Download for Windows" width="280"></a>
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.17.0/Bridgology-0.17.0-windows-x64-setup.exe"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-windows.svg" alt="Download for Windows" width="280"></a>
 </p>
 
 <p align="center">
-  <sub>Version 0.16.0 &nbsp;·&nbsp; Free Viewer included &nbsp;·&nbsp; <a href="../../releases">Release notes</a></sub>
+  <sub>Version 0.17.0 &nbsp;·&nbsp; Free Viewer included &nbsp;·&nbsp; <a href="../../releases">Release notes</a></sub>
 </p>
 
 <br>
