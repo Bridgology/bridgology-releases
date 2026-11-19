@@ -72,7 +72,7 @@ layers in 3D.
 | GSSI | `.dzt` (with `.dzx` for 3D grids) |
 | MALÅ | `.rad` with `.rd3` / `.rd7` |
 | IDS | `.dt`, C-thrue survey folders |
-| Kontur | `.sgy`, `.3dra` |
+| Kontur | `.sgy` |
 | Drone radars (SPH SkyHub, UTSI) | `.sgy`, `.LOG` |
 
 ## Install
