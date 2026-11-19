@@ -41,8 +41,8 @@ hand or automatically. Measure distances and times directly on the image.
 
 ### Place the scans on the site plan
 
-Position every scan from its GPS or a spreadsheet, over a drawing, a photo or an online map of the site. Mark cores,
-joints, labels and areas to leave out.
+Position every scan from its GPS or a spreadsheet, or set and correct the positions right on the plan, over a
+drawing, a CAD plan, a photo or an online map of the site. Mark cores, joints, labels and areas to leave out.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/geometry-light.png#gh-light-mode-only" alt="Scan lines placed on the plan of a curved bridge" width="900">
@@ -52,12 +52,17 @@ joints, labels and areas to leave out.
 ### Map the results
 
 Thickness, cover depth, spacing and permittivity, interpolated into maps of the whole deck. Cut
-cross-sections, outline areas of interest, and export the maps, the figures and the numbers.
+cross-sections, outline areas of interest, and export the maps, the figures and the numbers to PDF, Excel or CAD.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/map-light.png#gh-light-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
   <img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/map-dark.png#gh-dark-mode-only" alt="Map of concrete thickness over a curved bridge deck" width="900">
 </p>
+
+### Look inside the structure
+
+Build C-scan volumes from grids of scans, slice them at any depth, pick the rebars automatically, and see the
+layers in 3D.
 
 ## Works with your radar
 
@@ -66,8 +71,9 @@ cross-sections, outline areas of interest, and export the maps, the figures and 
 | Proceq / Screening Eagle (GP8000, GP8100, GP8800, GS8000, GS9000) | `.sgy` |
 | GSSI | `.dzt` (with `.dzx` for 3D grids) |
 | MALÅ | `.rad` with `.rd3` / `.rd7` |
-| IDS | `.dt` |
-| Kontur | `.sgy` |
+| IDS | `.dt`, C-thrue survey folders |
+| Kontur | `.sgy`, `.3dra` |
+| Drone radars (SPH SkyHub, UTSI) | `.sgy`, `.LOG` |
 
 ## Install
 
