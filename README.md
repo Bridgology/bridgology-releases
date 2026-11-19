@@ -13,6 +13,10 @@
   <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.24.0/Bridgology-0.24.0-macos-arm64.dmg"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-macos.svg" alt="Download for macOS" width="280"></a>
   &nbsp;
   <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.24.0/Bridgology-0.24.0-windows-x64-setup.exe"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-windows.svg" alt="Download for Windows" width="280"></a>
+  <br>
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.24.0/Bridgology-0.24.0-linux-x64.deb"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-linux-deb.svg" alt="Download for Linux (.deb)" width="280"></a>
+  &nbsp;
+  <a href="https://github.com/Bridgology/bridgology-releases/releases/download/v0.24.0/Bridgology-0.24.0-linux-x64.AppImage"><img src="https://raw.githubusercontent.com/Bridgology/bridgology-releases/assets/download-linux-appimage.svg" alt="Download the Linux AppImage" width="280"></a>
 </p>
 
 <p align="center">
@@ -89,8 +93,16 @@ layers in 3D.
 2. Open the downloaded file and follow the steps. No administrator rights are needed.
 3. Start Bridgology from the Start menu.
 
-Bridgology is signed by Bridgology SA, and the macOS version is checked by Apple. Once installed, it
-tells you when a new version is out and can install it for you (**Help > Check for updates…**).
+**Linux**
+
+1. On Ubuntu or Debian, click **Download for Linux** above and install the file with your software
+   centre, or with `sudo apt install ./Bridgology-*-linux-x64.deb`. Start Bridgology from your applications.
+2. On another distribution, click **Download AppImage**, make the file executable
+   (`chmod +x Bridgology-*-linux-x64.AppImage`) and open it.
+
+Bridgology is signed by Bridgology SA, and the macOS version is checked by Apple; the Linux packages are not
+signed. Once installed, it tells you when a new version is out and can install it for you (**Help > Check for
+updates…**); on Linux it opens the download page.
 
 ## Free Viewer, or the full analysis with a licence
 
@@ -116,7 +128,8 @@ To get a licence, write to [info@bridgology.com](mailto:info@bridgology.com) or 
 
 ## System requirements
 
-- A Mac with Apple Silicon (M1 or later), or a PC with Windows 10 or 11 (64-bit)
+- A Mac with Apple Silicon (M1 or later), a PC with Windows 10 or 11 (64-bit), or a 64-bit PC with Ubuntu
+  22.04 or later (or another Linux as recent, with the AppImage)
 - An internet connection when the app starts, to check the licence
 
 ## Help
